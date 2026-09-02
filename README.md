@@ -194,7 +194,7 @@ Po seedowaniu system uzupelnia tez baze o wiekszy zestaw danych demonstracyjnych
 
 Po wejściu na strone uzytkownik widzi menu, opis obiektu, aktualnosci i personel. To glowny ekran informacyjny dla osob, ktore chca poznac oferte basenu bez logowania.
 
-![Strona glowna](Dokumentacja/strona_glowna.png)
+![Strona glowna](strona_glowna.png)
 
 Opis zrzutu: Ekran prezentuje publiczną część serwisu z menu, zdjęciem obiektu oraz sekcją informacyjną. W dalszej części strony znajdują się aktualności i personel.
 
@@ -202,7 +202,7 @@ Opis zrzutu: Ekran prezentuje publiczną część serwisu z menu, zdjęciem obie
 
 Ekran logowania pozwala wpisac adres e-mail i haslo. Z tego miejsca mozna tez przejsc do formularza rejestracji nowego klienta. Po poprawnym logowaniu system przekierowuje uzytkownika do panelu klienta albo administratora.
 
-![Logowanie](Dokumentacja/logowanie.png)
+![Logowanie](logowanie.png)
 
 Opis zrzutu: formularz logowania przyjmuje e-mail i haslo oraz wyswietla komunikaty bledu, na przyklad dla nieaktywnego konta lub blednych danych.
 
@@ -210,7 +210,7 @@ Opis zrzutu: formularz logowania przyjmuje e-mail i haslo oraz wyswietla komunik
 
 Panel klienta laczy dane konta, sekcje kupionych karnetow oraz katalog dostepnych ofert. Uzytkownik moze wyszukiwac i filtrowac karnety, kupowac je oraz anulowac swoje zakupy.
 
-![Panel klienta](Dokumentacja/konto_klienta.png)
+![Panel klienta](konto_klienta.png)
 
 Opis zrzutu: widoczny jest panel klienta z informacjami o koncie, lista zakupionych karnetow oraz tabela oferty z filtrami.
 
@@ -218,7 +218,7 @@ Opis zrzutu: widoczny jest panel klienta z informacjami o koncie, lista zakupion
 
 Panel administratora sluzy do zarzadzania najwazniejszymi zasobami systemu. Zawiera zakladki `Karnety`, `Tory`, `Pracownicy` i `Klienci`, a dodatkowo pokazuje podstawowe statystyki obiektu.
 
-![Panel administratora](Dokumentacja/panel_admina.png)
+![Panel administratora](panel_admina.png)
 
 Opis zrzutu: panel administratora pokazuje liste klientow oraz narzedzia administracyjne do zarzadzania danymi systemu.
 
