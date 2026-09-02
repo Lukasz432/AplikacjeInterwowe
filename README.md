@@ -243,10 +243,9 @@ Interfejs zostal przygotowany tak, aby dzialal rowniez na mniejszych ekranach:
 
 ## Pliki pomocnicze i dokumentacja
 
-- folder `basen-laravel/` - glowny katalog aplikacji Laravel,
-- `basen-laravel/Dokumentacja/basen_laravel.sql` - aktualny eksport bazy danych,
-- `basen-laravel/Dokumentacja/strona_glowna.png`, `basen-laravel/Dokumentacja/logowanie.png`, `basen-laravel/Dokumentacja/konto_klienta.png`, `basen-laravel/Dokumentacja/panel_admina.png` - zrzuty ekranow wykorzystane w dokumentacji,
-- `basen-laravel/Dokumentacja/PodręcznikUżytkownika.txt` - skrócona instrukcja obsługi aplikacji.
+- `Dokumentacja/basen_laravel.sql` - aktualny eksport bazy danych,
+- `Dokumentacja/strona_glowna.png`, `Dokumentacja/logowanie.png`, `Dokumentacja/konto_klienta.png`, `Dokumentacja/panel_admina.png` - zrzuty ekranow wykorzystane w dokumentacji,
+- `Dokumentacja/PodręcznikUżytkownika.txt` - skrocona instrukcja obslugi aplikacji.
 
 ## Plany rozbudowy
 
